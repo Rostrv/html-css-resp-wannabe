@@ -143,8 +143,8 @@ img {
     }
     #why .row img {
         background-color: #428bca;
-        border-radius: 50%;
         padding: 15px;
+        height: 70px;
     }
     /* why */
 }
